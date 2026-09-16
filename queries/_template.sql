@@ -1,0 +1,15 @@
+-- Query name:
+-- Owner:
+-- Purpose:
+-- Cadence:
+-- Source tables:
+-- Output:
+-- Assumptions:
+-- Automation notes:
+
+-- Add the SQL used for the weekly newsletter below.
+-- Example:
+-- SELECT
+--   metric_name,
+--   metric_value
+-- FROM source_table;
